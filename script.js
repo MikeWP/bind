@@ -16,4 +16,4 @@ console.log(henry)
 
 var getHenryFullName = person.getFullName.bind(henry)
 
-console.log(getHenryFullName);
+console.log(getHenryFullName());
